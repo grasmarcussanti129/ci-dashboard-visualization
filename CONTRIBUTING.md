@@ -7,7 +7,7 @@ We welcome contributions to enhance the CI Dashboard Visualization project. Plea
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
 4. Push to the branch (`git push origin feature/AmazingFeature`).
-5. Open a pull request.
+5. Open a pull request from your feature branch to the main branch.
 
 ## Code of Conduct
 Please ensure to follow our [Code of Conduct](CODE_OF_CONDUCT.md) in all your interactions.
